@@ -127,3 +127,45 @@ body {
     margin: 2px;
 }
 
+/* Click To Play Section Styles */
+
+#play-the-game-section {
+    width: 100%;
+    margin-top: 5px;
+}
+
+#game-play-board {
+    width: 90%;
+    height: 75px;
+    padding: 6px;
+    margin: auto;
+    background-color: #d3d3d3;
+}
+
+#users-pick-information {
+    width: 50%;
+    height: 100%;
+    float: left;
+    line-height: auto;
+    font-size: larger;
+}
+
+#users-feedback {
+    text-align: center;
+    margin: 5px;
+    padding: 2%;
+}
+
+#click-to-play-button {
+    width: 50%;
+    margin: auto;
+    float: right;
+}
+
+#click-to-play {
+    width: 100%;
+    height: 100%;
+    max-width: 350px;
+    margin: auto;
+    padding: 15%;
+}

@@ -27,3 +27,96 @@ body {
     font-size: 5vw;
     margin: 2px;
 }
+
+/* Color Selection Section Styles */
+
+#color-selection-section {
+    width: 100%;
+    height: 300px;
+}
+
+#red-slice {
+    width: 50%;
+    height: 40%;
+    border: 1px solid #ff0000;
+    background-color: #ff0000;
+    float: left;
+    box-sizing: border-box;
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 6.5;
+}
+
+#blue-slice {
+    width: 50%;
+    height: 40%;
+    border: 1px solid #0000ff;
+    background-color: #0000ff;
+    float: right;
+    box-sizing: border-box;
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 6.5;
+}
+
+#green-slice {
+    width: 50%;
+    height: 40%;
+    border: 1px solid #006400;
+    background-color: #006400;
+    float: left;
+    box-sizing: border-box;
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 6.5;
+}
+
+#orange-slice {
+    width: 50%;
+    height: 40%;
+    border: 1px solid #ffa500;
+    background-color: #ffa500;
+    float: right;
+    box-sizing: border-box;
+    color: #ffffff;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+    line-height: 6.5;
+}
+
+#red-slice:hover {
+    background-color: #ffffff;
+    color: #ff0000;
+    text-decoration: underline;
+}
+
+#blue-slice:hover {
+    background-color: #ffffff;
+    color: #0000ff;
+    text-decoration: underline;
+}
+
+#green-slice:hover {
+    background-color: #ffffff;
+    color: #006400;
+    text-decoration: underline;
+}
+
+#orange-slice:hover {
+    background-color: #ffffff;
+    color: #ffa500;
+    text-decoration: underline;
+}
+
+#instruction {
+    text-align: center;
+    font-size: 3vh;
+    margin: 2px;
+}

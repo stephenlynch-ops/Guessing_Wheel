@@ -4,4 +4,26 @@ body {
     font-family: 'Balsamiq Sans', cursive;
     background-color: #f0ffff;
     color: #2f4f4f;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+/* Page Title Section Styles */
+
+#page-title-section {
+    width: 100%;
+}
+
+#page-title {
+    width: 100%;
+    text-align: center;
+    font-size: 8vw;
+    margin: 0px;
+}
+
+#catch-line {
+    text-align: center;
+    font-size: 5vw;
+    margin: 2px;
 }
